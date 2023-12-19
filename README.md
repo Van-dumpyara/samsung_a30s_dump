@@ -1,0 +1,14 @@
+# a30sxx-user 11 RP1A.200720.012 A307FNXXU4CWH7 release-keys
+- manufacturer: samsung
+- platform: universal7904
+- codename: a30s
+- flavor: a30sxx-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: A307FNXXU4CWH7
+- tags: release-keys
+- fingerprint: samsung/a30sxx/a30s:11/RP1A.200720.012/A307FNXXU4CWH7:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a30sxx-user-11-RP1A.200720.012-A307FNXXU4CWH7-release-keys
+- repo: samsung_a30s_dump
