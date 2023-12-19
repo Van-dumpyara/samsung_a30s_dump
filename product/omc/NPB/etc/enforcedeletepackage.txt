@@ -1,0 +1,10 @@
+9
+AmazonVideo_SWA.apk
+Amazon_Shopping.apk
+AsphaltNitro.apk
+Dailyhunt.apk
+DisneyMagicKingdom.apk
+SamsungDotCom.apk
+SamsungPayStub.apk
+Snapchat.apk
+Spotify.apk
